@@ -7,6 +7,8 @@ To have one command to run to install all necesarry tools on my local machine.
 - Laravel
 - React
 - Vue
+- Flutter
 - Oracle Database
 - Oracle Apex
 - ORDS
+- Apache Tomcat
